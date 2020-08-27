@@ -1,5 +1,6 @@
 # jamstack-music
-
+This is workshop project/tutorial, that's created by Kaizen Codes - Build a complete playlist app on the JAMstack w/ Nuxt,Deezer & Netlify. All credits go to Eckhardt "Kaizen Codes" D.
+Link's to the tutorial: https://www.youtube.com/watch?v=yS3ePb2hsNc
 ## Build Setup
 
 ```bash
