@@ -1,6 +1,9 @@
 <template>
   <main>
-    <nuxt/>
+    <client-only>
+    <nuxt />
+    
+    </client-only>
   </main>
 </template>
 
